@@ -9,7 +9,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <div>Fib Calculator v2</div>
-          <Link style={{ color: 'white' }} to="/">Fib values</Link>
+          <Link style={{ color: 'white' }} to="/">Fib values with kubernetes</Link>
           <Link style={{ color: 'white' }} to="/otherpage">Other Page</Link>
         </header>
         <div>
